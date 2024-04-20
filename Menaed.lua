@@ -8,11 +8,11 @@ NMS_MOD_DEFINITION_CONTAINER = {
     {
     ["MBIN_CHANGE_TABLE"] = { --以上两条简称为二级词条
     {
-    ["MBIN_FILE_SOURCE"] = "",
+    ["MBIN_FILE_SOURCE"] = "EXTRACTED_PAK\MODELS\COMMON\PLAYER\PLAYERCHARACTER\PLAYERCHARACTER.SCENE.MBIN",
     ["EXML_CHANGE_TABLE"] = { --以上两条简称为三级词条
     { --以下简称为四级词条
-    ["SPECIAL_KEY_WORDS"] = {},
-    ["VALUE_CHANGE_TABLE"] = {
+    ["ADD_OPTION"] = {},
+    ["ADD"] = {
     {},
     }
     },
