@@ -41,7 +41,6 @@ NMS_MOD_DEFINITION_CONTAINER = {
           </Property>
           <Property name="Children" />
         </Property>
-    {},
     }
     },
     }
